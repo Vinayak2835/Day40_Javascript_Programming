@@ -11,7 +11,7 @@ if (month >= 3 && month <= 6) {
         } else {
             console.log("false");
         }
-    }
+     }
 }
 if (month == 6) {
     if (day <= 20) {
