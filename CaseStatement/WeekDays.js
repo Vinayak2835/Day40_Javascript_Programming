@@ -24,4 +24,4 @@ switch (number4) {
     break;
   default:
     console.log("Invalid!");
-}
+ }
