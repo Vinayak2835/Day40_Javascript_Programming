@@ -9,7 +9,7 @@ rl.question("Enter a Number ? ", function(number) {
        for(let i = number; i>=1 ; i--) {
            result = result * i;
        }
-       console.log(result);        
+        console.log(result);        
        rl.close();
     });
 
