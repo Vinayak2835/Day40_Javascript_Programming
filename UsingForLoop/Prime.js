@@ -5,7 +5,7 @@ function prime(number) {
          if(number % i == 0) {
              isPrime = false;
          }
-    }
+     }
     if(isPrime) {
         console.log("Yes its a prime Number");
   }
