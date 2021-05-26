@@ -12,6 +12,6 @@ while(n <  4) {
     if (min > randomNumber) {
         min = randomNumber;
     }
-    n++;
+     n++;
 }
 console.log("Maximum is"+max+" "+"Minimum is"+min);
