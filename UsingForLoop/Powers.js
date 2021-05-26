@@ -10,6 +10,6 @@ rl.question("Enter a Number ? ", function(number) {
          var powers = number;
         powers = powers * number;
        
-      }
+     }
       console.log(powers);
   });
