@@ -3,7 +3,7 @@ let Heads = 0;
 let Tails = 1;
 
 if(coin_flipped == 0) {
-    console.log("HEADS");
+   console.log("HEADS");
 }
 else {
     consolelog("TAILS");
