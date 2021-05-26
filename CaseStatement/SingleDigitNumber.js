@@ -15,7 +15,7 @@ switch (number) {
   case 4:
     console.log("four");
     break;
-  case 5:
+   case 5:
     console.log("five");
     break;
   case 6:
