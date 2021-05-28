@@ -13,8 +13,7 @@ while (heads != 11 && tails != 11) {
     }
 
 }
-
-    if(heads == 11) {
+  if(heads == 11) {
         console.log("Head Wins! " + heads);
     } else {
         console.log("Tails Wins! " + tails);
