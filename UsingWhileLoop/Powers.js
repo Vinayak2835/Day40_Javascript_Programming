@@ -4,7 +4,6 @@ const readline6 = require("readline").createInterface({
 });
   
   let powers1 = 1;
-  
   readline6.question("Enter a number", (number) => {
     let result = 1;
       while(result < 128) {
